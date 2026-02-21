@@ -1,0 +1,20 @@
+# Python environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# PyInstaller (Executable builds)
+build/
+dist/
+*.spec
+
+# SafeDesk AI Local Data (Privacy & Security)
+*.db
+Alerts/
+*.xlsx
+
+# IDE specific
+.idea/
+.vscode/

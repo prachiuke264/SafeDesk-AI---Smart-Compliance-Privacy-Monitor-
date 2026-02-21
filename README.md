@@ -1,6 +1,9 @@
 SafeDesk AI - Smart Compliance & Privacy Monitor 🛡️
 SafeDesk AI is a lightweight, edge-computing desktop application designed to enforce "Clean Desk Policies" in secure environments like BPOs, Banks, and Exam Centers. It uses YOLOv8 to detect unauthorized mobile devices in real-time and takes automated security actions.
 
+![SafeDesk AI Demo](SafeDeskAI.gif)
+
+
 🚀 Key Features
 Real-time AI Detection: Powered by YOLOv8 for high-speed mobile phone detection.
 Privacy-First Design: The live camera feed is hidden from the UI to ensure employee comfort; only AI scans the background.

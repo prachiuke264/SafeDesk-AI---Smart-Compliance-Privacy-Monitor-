@@ -32,3 +32,9 @@ Start Monitoring: Activates the webcam in the background.
 Detection: If a "Cell Phone" is identified with >40% confidence, a "Violation" is triggered.
 Action: The app captures a screenshot, logs it to compliance_logs.db, and calls the Windows LockWorkStation API.
 Reporting: Managers can click Export to Excel to get a full audit trail of all employees.
+
+
+
+
+
+
